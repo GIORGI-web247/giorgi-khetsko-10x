@@ -1,0 +1,1 @@
+const registry = .{name:'A', status:'old'};

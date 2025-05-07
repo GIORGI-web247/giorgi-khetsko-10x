@@ -1,4 +1,4 @@
-// Exercise 1: The Power of Variables and Operators 
+//  Exercise 1: The Power of Variables and Operators 
 
 // let gandalfTheGrey = 4;
 // let dambldore = 5;
@@ -9,7 +9,7 @@
 // if (gandalfTheGrey > dambldore) {
 //     console.log("gandalfTheGray");
 // } else {
-//     console.log("dambldore");
+// console.log("dambldore");
 // }
 
 
@@ -40,7 +40,7 @@
 // if (total = total * 0.8) {
 //     console.log("price after discount: " + total);
 // } else {
-//     console.log("price: " + total); 
+// console.log("price: " + total); 
 // }
 
 
@@ -76,13 +76,12 @@
 // if (fuelCurrent >= enoughFuel) {
 //     console.log("ready for launch");
 // } else {
-//     console.log("less Fuel");
+// console.log("less Fuel");
 // }
 
 
 
 // Exercise 7: The Time Traveler’s Stopwatch (Updated)
-
 // let currentDate = new Date();
 // let currentYear = currentDate.getFullYear();
 // let yearsJumped = 2013;
